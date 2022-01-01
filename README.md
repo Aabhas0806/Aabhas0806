@@ -176,7 +176,7 @@
   <a href="https://www.hackerearth.com/@aabhastejasvi2001" target="_blank">
     <code><img height="60" width="60" src="hackerath.png"/></code>
   </a>
-  <a href="https://www.codechef.com/users/aabhas_2001#" target="_blank">
+  <a href="" target="_blank">
     <code><img height="60" width="60" src="codechef.jpg"/></code>
   </a>
 </p>
